@@ -1,0 +1,51 @@
+.header {
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding:30px ;
+}
+
+.header a{
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.mid-wrapper {
+    background-image:url(Images/background/background-2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+#header-img{
+    width: 1300px;
+}
+
+.link {
+    padding: 20px;
+    color: rgb(28, 241, 92);
+    font-family: "Rambla", sans-serif;
+}
+
+.p1{
+    padding: 40px;
+    font-family: "Rambla", sans-serif;
+}
+
+.footer {
+    background-color: black ;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.h1{
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 90px;
+}
